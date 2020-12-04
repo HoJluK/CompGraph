@@ -1,0 +1,9 @@
+D:\Laboratory_pr\CompGraph1\CompGraph1\bin\Debug\CompGraph1.exe.config
+D:\Laboratory_pr\CompGraph1\CompGraph1\bin\Debug\CompGraph1.exe
+D:\Laboratory_pr\CompGraph1\CompGraph1\bin\Debug\CompGraph1.pdb
+D:\Laboratory_pr\CompGraph1\CompGraph1\obj\Debug\CompGraph1.csprojResolveAssemblyReference.cache
+D:\Laboratory_pr\CompGraph1\CompGraph1\obj\Debug\CompGraph1.Form1.resources
+D:\Laboratory_pr\CompGraph1\CompGraph1\obj\Debug\CompGraph1.Properties.Resources.resources
+D:\Laboratory_pr\CompGraph1\CompGraph1\obj\Debug\CompGraph1.csproj.GenerateResource.Cache
+D:\Laboratory_pr\CompGraph1\CompGraph1\obj\Debug\CompGraph1.exe
+D:\Laboratory_pr\CompGraph1\CompGraph1\obj\Debug\CompGraph1.pdb
