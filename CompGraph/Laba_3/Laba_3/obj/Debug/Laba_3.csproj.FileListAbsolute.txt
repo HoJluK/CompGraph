@@ -1,0 +1,9 @@
+D:\Laboratory_pr\Laba_3\Laba_3\bin\Debug\Laba_3.exe.config
+D:\Laboratory_pr\Laba_3\Laba_3\bin\Debug\Laba_3.exe
+D:\Laboratory_pr\Laba_3\Laba_3\bin\Debug\Laba_3.pdb
+D:\Laboratory_pr\Laba_3\Laba_3\obj\Debug\Laba_3.csprojResolveAssemblyReference.cache
+D:\Laboratory_pr\Laba_3\Laba_3\obj\Debug\Laba_3.Form1.resources
+D:\Laboratory_pr\Laba_3\Laba_3\obj\Debug\Laba_3.Properties.Resources.resources
+D:\Laboratory_pr\Laba_3\Laba_3\obj\Debug\Laba_3.csproj.GenerateResource.Cache
+D:\Laboratory_pr\Laba_3\Laba_3\obj\Debug\Laba_3.exe
+D:\Laboratory_pr\Laba_3\Laba_3\obj\Debug\Laba_3.pdb
